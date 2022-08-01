@@ -68,3 +68,4 @@ For vaiables create variables.tf and store all the env related variables to file
     terraform plan -var-file="<env>.tfvars"
     terraform apply -var-file="<env>.tfvars"
 ```
+
